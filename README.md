@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sara Ramadan</h1>
+<h1 align="center">Hi, I'm Sara Ramadan</h1>
 <h3 align="center">A passionate Backend developer from Egypt</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sararamadan25" alt="sararamadan25" /></a> </p>
