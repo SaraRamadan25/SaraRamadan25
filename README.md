@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sararamadan25" alt="sararamadan25" /></a> </p>
 
-- 🔭 I’m currently working on [CV Project](https://github.com/SaraRamadan25/CV_project)
+- 🔭 I’m currently working on [E-Commerce Project](https://github.com/SaraRamadan25/E-commerce)
 
-- 🌱 I’m currently learning **Backend ( Laravel ) & Software Development**
+- 🌱 I’m currently learning **Backend  & Software Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaraRamadan25](https://github.com/SaraRamadan25)
 
@@ -24,7 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sararamadan25&show_icons=true&locale=en&layout=compact" alt="sararamadan25" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sararamadan25&show_icons=true&locale=en" alt="sararamadan25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sararamadan25&" alt="sararamadan25" /></p>
 
