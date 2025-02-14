@@ -3,9 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sararamadan25" alt="sararamadan25" /></a> </p>
 
-- 🔭 I’m currently working on [E-Commerce Project](https://github.com/SaraRamadan25/E-commerce)
-
-- 🌱 I’m currently learning **Backend  & Software Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaraRamadan25](https://github.com/SaraRamadan25)
 
